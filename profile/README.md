@@ -1,4 +1,4 @@
-## Hi there 👋
+## GolangToolKits is a collection of usful Golang tool to make building Golang projects faster. 👋
 
 <!--
 
