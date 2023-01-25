@@ -1,6 +1,6 @@
 ## GolangToolKits is a collection of useful Golang tools to make building Golang projects faster. 👋
 
-#### GRRT (Go Request RouTer) is a direct replacement for gorilla/mux. It has built-in CORS and method based routing.
+#### GRRT (Go Request RouTer) is a direct replacement for gorilla/mux. It has built-in CORS, path variables and method based routing.
 
 <!--
 
